@@ -46,7 +46,7 @@ Seeking entry-level SOC Analyst opportunities, cybersecurity internships, and ju
 
 ## 📫 Contact
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add a professional contact email]
+- LinkedIn: https://www.linkedin.com/in/hedayatullah-sadat-858099395
+- Email:Hedayatullah_sadat@yahoo.com
 
 *This portfolio contains educational lab work. Simulated security findings are identified as such.*
